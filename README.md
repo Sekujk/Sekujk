@@ -1,6 +1,10 @@
-<h2 align="left">¡Hola 👋! Soy Alejandro, egresado de Ingeniería de Sistemas.</h2>
+<h2 align="left">¡Hola 👋! Soy Alejandro, desarrollador full-stack.</h2>
 
-<p align="left">Construyo aplicaciones de punta a punta: backend, base de datos y la interfaz que ve el usuario.</p>
+<p align="left">Construyo apps que resuelven problemas reales: finanzas personales, portafolios, análisis de datos económicos.</p>
+
+<p align="left">
+  <img src="https://komarev.com/ghpvc/?username=Sekujk&color=0e7490&style=flat&label=visitas+al+perfil" alt="Visitas al perfil"  />
+</p>
 
 ###
 
