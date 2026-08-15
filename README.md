@@ -2,10 +2,6 @@
 
 <p align="left">Construyo apps que resuelven problemas reales: finanzas personales, portafolios, análisis de datos económicos.</p>
 
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=Sekujk&color=0e7490&style=flat&label=visitas+al+perfil" alt="Visitas al perfil"  />
-</p>
-
 ###
 
 <img align="right" height="170" src="https://i.imgur.com/NFauzKN.gif"  />
