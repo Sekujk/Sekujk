@@ -32,7 +32,6 @@
 
 ### Proyectos
 
-- **[Rumbo](https://github.com/Sekujk/rumbo)** — app móvil de finanzas personales con proyección de gasto mensual. React Native, Expo, Supabase.
 - **[Portafolio](https://github.com/Sekujk/portafolio)** — sitio personal con panel de administración. React, Supabase.
 - **[Explicador Económico del Perú](https://github.com/Sekujk/explicador-economico-peru)** — pipeline ETL de indicadores económicos del BCRP. Python, Docker, Prefect, CI con GitHub Actions.
 
