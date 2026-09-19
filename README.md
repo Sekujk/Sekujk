@@ -1,4 +1,4 @@
-<h2 align="left">¡Hola 👋! Soy Alejandro, desarrollador full-stack.</h2>
+<h2 align="left">¡Hola 👋! Soy Alejandro, desarrollador de software.</h2>
 
 <p align="left">Construyo apps que resuelven problemas reales: finanzas personales, portafolios, análisis de datos económicos.</p>
 
