@@ -50,6 +50,9 @@
   <a href="https://www.linkedin.com/in/alejandroseclenl/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin" />
   </a>
+  <a href="https://www.instagram.com/sekuwt/" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" alt="instagram" />
+  </a>
   <a href="https://www.twitch.tv/sekujkh" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&style=for-the-badge" height="35" alt="twitch" />
   </a>
